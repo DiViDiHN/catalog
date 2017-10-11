@@ -1,0 +1,5 @@
+name: Jenkins Lab
+description: |
+  Jenkins Service vom Rancher Training
+version: v0.1.0
+category: Rancher Services
