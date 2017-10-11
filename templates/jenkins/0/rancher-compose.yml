@@ -1,5 +1,5 @@
 .catalog:
-    name: "Rancher Rebalancer"
+    name: "Jenkins Lab"
     version: "v0.1.0"
-    description: "Rancher Rebalancer"
+    description: "Jenkins for Rancher Training"
     minimum_rancher_version: v1.5.5
